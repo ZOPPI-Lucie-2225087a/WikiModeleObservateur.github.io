@@ -1,3 +1,3 @@
-:::
-Modèle Observateur
-:::
+---
+Texte centré
+---

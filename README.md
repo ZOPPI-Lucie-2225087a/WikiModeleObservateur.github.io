@@ -1,3 +1,2 @@
-<center>#Modele Observateur</center>
 
-
+<p style="text-align: center;">Text_content</p>
